@@ -1,0 +1,16 @@
+C:\Users\RauWill\source\repos\Lessons\bin\Debug\net5.0\Lessons.exe
+C:\Users\RauWill\source\repos\Lessons\bin\Debug\net5.0\Lessons.deps.json
+C:\Users\RauWill\source\repos\Lessons\bin\Debug\net5.0\Lessons.runtimeconfig.json
+C:\Users\RauWill\source\repos\Lessons\bin\Debug\net5.0\Lessons.runtimeconfig.dev.json
+C:\Users\RauWill\source\repos\Lessons\bin\Debug\net5.0\Lessons.dll
+C:\Users\RauWill\source\repos\Lessons\bin\Debug\net5.0\ref\Lessons.dll
+C:\Users\RauWill\source\repos\Lessons\bin\Debug\net5.0\Lessons.pdb
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\Lessons.csproj.AssemblyReference.cache
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\Lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\Lessons.AssemblyInfoInputs.cache
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\Lessons.AssemblyInfo.cs
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\Lessons.csproj.CoreCompileInputs.cache
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\Lessons.dll
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\ref\Lessons.dll
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\Lessons.pdb
+C:\Users\RauWill\source\repos\Lessons\obj\Debug\net5.0\Lessons.genruntimeconfig.cache
