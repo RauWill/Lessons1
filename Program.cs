@@ -1,5 +1,4 @@
 ﻿using System;
-//среднее арифметическое число
 namespace Lessons
 {
     class Program
